@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="2" total="3" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="998" started-at="2019-01-01T20:10:08Z" finished-at="2019-01-01T20:10:09Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="998" started-at="2019-01-01T20:10:08Z" finished-at="2019-01-01T20:10:09Z">
+      <class name="oneHundred.ExcelDataOneHundred.ReadingFromExce">
+        <test-method status="PASS" signature="writeDataInExcel()[pri:0, instance:oneHundred.ExcelDataOneHundred.ReadingFromExce@548a9f61]" name="writeDataInExcel" duration-ms="951" started-at="2019-01-01T20:10:08Z" finished-at="2019-01-01T20:10:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- writeDataInExcel -->
+      </class> <!-- oneHundred.ExcelDataOneHundred.ReadingFromExce -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
